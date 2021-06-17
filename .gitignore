@@ -2,6 +2,9 @@
 
 # dependencies
 /node_modules
+# fbx
+/src/fbx/Texture
+/src/fbx/head-mast.fbx
 /.pnp
 .pnp.js
 

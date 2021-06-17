@@ -1,10 +1,19 @@
 .App {
   text-align: center;
 }
+#frame {
+  width: 100vw;
+  height: 100vh;
+}
 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+}
+#fps {
+  position: fixed;
+  right: 0;
+  top: 0;
 }
 
 @media (prefers-reduced-motion: no-preference) {
